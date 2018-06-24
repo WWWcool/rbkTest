@@ -1,0 +1,7 @@
+C:\Users\WWW_c\source\repos\rbkTest\rbkTest\bin\Debug\rbkTest.exe.config
+C:\Users\WWW_c\source\repos\rbkTest\rbkTest\bin\Debug\rbkTest.exe
+C:\Users\WWW_c\source\repos\rbkTest\rbkTest\bin\Debug\rbkTest.pdb
+C:\Users\WWW_c\source\repos\rbkTest\rbkTest\obj\Debug\rbkTest.csprojAssemblyReference.cache
+C:\Users\WWW_c\source\repos\rbkTest\rbkTest\obj\Debug\rbkTest.csproj.CoreCompileInputs.cache
+C:\Users\WWW_c\source\repos\rbkTest\rbkTest\obj\Debug\rbkTest.exe
+C:\Users\WWW_c\source\repos\rbkTest\rbkTest\obj\Debug\rbkTest.pdb
